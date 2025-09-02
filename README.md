@@ -12,7 +12,9 @@ This project focuses on analyzing retail sales data using SQL to gain actionable
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-## Project Structure
+## Project Objective
+
+To analyze retail sales data using SQL in order to understand customer purchasing behavior, product performance, sales trends, and to provide actionable insights for business growth and decision-making.
 
 ### 1. Database Setup
 
